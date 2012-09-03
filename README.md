@@ -1,4 +1,4 @@
 DroidCalc
 =========
 
-Calculate I built to learn Android
+Calculator I built to learn Android
